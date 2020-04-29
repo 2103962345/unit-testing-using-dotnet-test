@@ -35,8 +35,9 @@ REM Build
 call dotnet build --configuration %config%
 if not "%errorlevel%"=="0" goto failure
 
+cd PrimeService.Tests
 REM Unit tests
-call dotnet test :MSTestMoqExampleTests\MSTestMoqExampleTests.csproj --configuration %config% --no-build
+call dotnet test 
 if not "%errorlevel%"=="0" goto failure
 
 :REM Package
