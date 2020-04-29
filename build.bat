@@ -40,6 +40,7 @@ REM Unit tests
 call dotnet test 
 if not "%errorlevel%"=="0" goto failure
 
+cd ..
 :REM Package
 mkdir %cd%\..\artifacts
 call dotnet pack PrimeService --configuration %config% %packversionsuffix% --output %cd%\..\artifacts
