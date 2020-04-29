@@ -1,8 +1,0 @@
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
-C:\Users\alexb\Repos\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
